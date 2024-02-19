@@ -114,7 +114,7 @@ def make_diagonal_nonzero(matrix, identity):
 # Gad Gadi Hasson 207898123
 # Carmel Dor 316015882
 # Artiom Bondar 332692730
-# Git:https://github.com/IMrMoon/matrix1.git
+# Git:https://github.com/gadHasson6/matrix_gad.git
 # Name: Gad Gadi Hasson 207898123
 if __name__ == '__main__':
     np.set_printoptions(suppress=True, precision=4)
